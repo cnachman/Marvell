@@ -1,6 +1,6 @@
 #!groovy
 pipeline { 
-    agent label : 'pt-lt0582'
+    agent label : 'pt-lt0104'
     //   parameters {
     //        booleanParam(defaultValue: false, description: '', name: 'flag')
     //    } 
