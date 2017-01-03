@@ -14,7 +14,7 @@ pipeline {
         //    }
         //    
         //    
-        stage('Call Global Library - print something'){
+        //stage('Call Global Library - print something'){
             //  steps{
             //     script{
             //       
